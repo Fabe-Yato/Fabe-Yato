@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Fabe-Yato">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabe-yato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="580" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabe-yato&layout=compact&langs_count=7&theme=dark"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=fabe-yato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="145em" width="580" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabe-yato&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@
   <img align="center" alt="Fabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Fabe-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="right" alt="miranha" src="https://pa1.narvii.com/6825/9cc0360193a613faa76abf06da7b6f27a3ef4f09_128.gif">
+  <img align="right" width="100" alt="miranha" src="https://pa1.narvii.com/6825/9cc0360193a613faa76abf06da7b6f27a3ef4f09_128.gif">
 </div>
   
 ##
