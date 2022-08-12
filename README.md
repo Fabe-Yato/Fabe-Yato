@@ -10,7 +10,6 @@
   <img align="center" alt="Fabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fabe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fabe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Fabe-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="right" width="100" alt="miranha" src="https://pa1.narvii.com/6825/9cc0360193a613faa76abf06da7b6f27a3ef4f09_128.gif">
 </div>
@@ -24,4 +23,4 @@
  
 </div>
 
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Fabe-Yato/Fabe-Yato/blob/output/github-contribution-grid-snake.svg)
